@@ -1,24 +1,21 @@
-# Hi there, I'm Siti Zaharah 👋
+# Introduce Myself👋
 ![Hi, I'm Siti Zaharah](./banner.png)
 
-🎓 Chemical Engineering Graduate turned Data Enthusiast  
-💻 Passionate about Data Analysis, Visualization & Automation  
-📊 Tools: Python | SQL | Power BI | Tableau | Excel  
-☁️ Currently exploring: AWS & Apache Spark
+Hello, I'm Zaharah. Aspiring Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
----
+Querying data using SQL.
+Generate data modelling using Python.
+Developing dashboards on Power BI and Tableau.
+Data analysis and reporting using Google Sheets and Excel.
 
-## 🌱 What I'm Learning
-- Apache Spark for Big Data
-- AWS Cloud Fundamentals
-- Tableau for Data Visualization
-- Building Data Projects with Python
+# 📌 Projects
+Welcome to my portfolio, where I showcase my projects.
 
-## 📌 Projects
-- 📈 CRM Sales Pipeline Analysis
-- 🧹 Data Cleaning with Python & Pandas
-- 📊 Power BI Dashboards for Retail Trends
+# 🛠️ Tools
+Language: SQL, Python
+Database: MySQL
+Visualization: Power BI, Tableau
 
-## 📬 Let's Connect
+# 👋 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/siti-zaharah-edi-7436411a0/)
 - [Email Me](mailto:zaharahedi@gmail.com)
