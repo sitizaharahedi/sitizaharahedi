@@ -1,4 +1,5 @@
 # Hi there, I'm Siti Zaharah 👋
+(./banner.png)
 
 🎓 Chemical Engineering Graduate turned Data Enthusiast  
 💻 Passionate about Data Analysis, Visualization & Automation  
