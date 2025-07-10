@@ -1,4 +1,4 @@
-## Introduce Myself👋
+## Introducing Myself👋
 ![Hi, I'm Siti Zaharah](./banner.png)
 
 Hello, I'm Zaharah. Aspiring Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
@@ -13,7 +13,9 @@ Welcome to my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools
 Language: SQL, Python
+
 Database: MySQL
+
 Visualization: Power BI, Tableau
 
 ### 👋 Connect with Me
