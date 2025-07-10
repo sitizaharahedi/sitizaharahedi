@@ -16,6 +16,6 @@ Language: SQL, Python
 Database: MySQL
 Visualization: Power BI, Tableau
 
-## 👋 Connect with Me
+### 👋 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/siti-zaharah-edi-7436411a0/)
 - [Email Me](mailto:zaharahedi@gmail.com)
