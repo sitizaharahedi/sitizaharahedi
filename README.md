@@ -15,7 +15,7 @@ Welcome to my portfolio, where I showcase projects related to:
 - Sales data analysis
 - Dashboard creation
 - Data cleaning and transformation  
-(link)
+[link](https://github.com/sitizaharahedi/Portfolio-Guide)
 
 ---
 
