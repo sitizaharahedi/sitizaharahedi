@@ -11,11 +11,10 @@ Hello! I'm **Siti Zaharah**, an **Aspiring Data Analyst** with a strong foundati
 ---
 
 ### 📌 Projects
-Welcome to my portfolio, where I showcase projects related to:
+Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaharahedi/Portfolio-Guide) related to:
 - Sales data analysis
 - Dashboard creation
 - Data cleaning and transformation  
-[link](https://github.com/sitizaharahedi/Portfolio-Guide)
 
 ---
 
