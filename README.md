@@ -3,9 +3,8 @@
 ![Hi, I'm Siti Zaharah](./banner.png)
 
 Hello! I'm **Siti Zaharah**, an **Aspiring Data Analyst** with a strong foundation in:
-- SQL querying and database design
 - Data modeling and analysis with Python
-- Dashboard creation using Power BI and Tableau
+- Dashboard creation using Power BI
 - Reporting and data handling using Excel and Google Sheets
 
 ---
@@ -20,9 +19,8 @@ Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaha
 
 ### 🛠️ Tools & Technologies
 
-- **Languages**: Python, SQL  
-- **Databases**: MySQL  
-- **Visualization**: Power BI, Tableau  
+- **Languages**: Python 
+- **Visualization**: Power BI  
 - **Others**: Excel, Google Sheets
 
 ---
