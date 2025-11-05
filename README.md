@@ -2,26 +2,27 @@
 
 ![Hi, I'm Siti Zaharah](./banner.png)
 
-Hello! I'm **Siti Zaharah**, an **Aspiring Data Analyst** with a strong foundation in:
-- Data modeling and analysis with Python
-- Dashboard creation using Power BI
-- Reporting and data handling using Excel and Google Sheets
+Hello! I'm **Siti Zaharah**, an **Aspiring Software Engineer** with 4 years of experience in technical roles and a strong foundation in research and development.
+
+I’m passionate about building practical software solutions that automate processes, support decision-making, and deliver meaningful results.
 
 ---
 
 ### 📌 Projects
 Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaharahedi/Portfolio-Guide) related to:
-- Sales data analysis
-- Dashboard creation
-- Data cleaning and transformation  
+- Web application development
+- Data automation and integration using Python
+- Dashboard creation and data visualization
 
 ---
 
 ### 🛠️ Tools & Technologies
 
-- **Languages**: Python 
+- **Languages**: Python, JavaScript
+- **Frameworks**: Flask, React
+- **Databases**: SQLite, PostgreSQL
 - **Visualization**: Power BI  
-- **Others**: Excel, Google Sheets
+- **Others**: Excel, Google Sheets, Git, GitHub
 
 ---
 
