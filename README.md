@@ -1,5 +1,3 @@
-## 👋 Introducing Myself
-
 ![Hi, I'm Siti Zaharah](./banner.png)
 
 ## 👋 Hi, I'm Siti Zaharah
@@ -9,13 +7,8 @@ I’m passionate about building practical software solutions that automate proce
 
 ---
 
-### 📌 Projects
-Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaharahedi/Portfolio-Guide) related to:
-
-- 💻 **Software Engineering Projects** : Backend / full-stack / Python apps demonstrating engineering skills
-
-- 🧠 **Data Science & Analytics** : Machine learning and dashboard work.
 ## 📌 Projects
+Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaharahedi/Portfolio-Guide) related to:
 
 ### 💻 Software Engineering Projects
 Backend / full-stack Python apps demonstrating engineering skills.
@@ -27,9 +20,10 @@ Backend / full-stack Python apps demonstrating engineering skills.
 Machine learning and dashboard projects.
 - [Customer Churn Prediction](): Python / scikit-learn
 - [Sales Dashboard](): Power BI
+
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - **Languages**: Python
 - **Frameworks**: Flask, React
@@ -39,6 +33,6 @@ Machine learning and dashboard projects.
 
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/siti-zaharah-edi-7436411a0/)
 - [Email Me](mailto:zaharahedi@gmail.com)
