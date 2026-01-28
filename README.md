@@ -1,4 +1,4 @@
-![Hi, I'm Siti Zaharah](./banner.png)
+![Hi, I'm Siti Zaharah](./banner2.png)
 
 ## 👋 Hi, I'm Siti Zaharah
 ### Software Engineer (Python & Web) | Backend & Full-Stack Developer
