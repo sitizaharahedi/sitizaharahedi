@@ -2,7 +2,7 @@
 
 ![Hi, I'm Siti Zaharah](./banner.png)
 
-Hello! I'm **Siti Zaharah**, an **Aspiring Software Engineer** with 4 years of experience in technical roles and a strong foundation in research and development.
+Hello! I'm **Siti Zaharah**, an **Aspiring Software Engineer (Python & Web)** with 4 years of experience in technical roles and a strong foundation in research and development.
 
 I’m passionate about building practical software solutions that automate processes, support decision-making, and deliver meaningful results.
 
@@ -10,9 +10,12 @@ I’m passionate about building practical software solutions that automate proce
 
 ### 📌 Projects
 Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaharahedi/Portfolio-Guide) related to:
-- Web application development
-- Data automation and integration using Python
-- Dashboard creation and data visualization
+
+- 💻 **Software Engineering Projects**
+These are backend / full-stack / Python apps demonstrating engineering skills.
+
+- 🧠 **Data Science & Analytics**
+Machine learning and dashboard work (secondary focus).
 
 ---
 
