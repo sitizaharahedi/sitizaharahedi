@@ -11,13 +11,9 @@ I’m passionate about building practical software solutions that automate proce
 ### 📌 Projects
 Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaharahedi/Portfolio-Guide) related to:
 
-- 💻 **Software Engineering Projects**
+- 💻 **Software Engineering Projects** : Backend / full-stack / Python apps demonstrating engineering skills
 
-These are backend / full-stack / Python apps demonstrating engineering skills.
-
-- 🧠 **Data Science & Analytics**
-
-Machine learning and dashboard work (secondary focus).
+- 🧠 **Data Science & Analytics** : Machine learning and dashboard work.
 
 ---
 
