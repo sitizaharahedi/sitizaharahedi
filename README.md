@@ -12,14 +12,14 @@ Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaha
 
 ### 💻 Software Engineering Projects
 Backend / full-stack Python apps demonstrating engineering skills.
-- [Contact Manager](): A simple Full-Stack Contact Manager demonstrating backend and frontend skills.
-- [Flask Notes App](): A simple Full-Stack Notes App demonstrating backend and frontend skills.
-- [Movie App](): A simple Frontend Movie App demonstrating React development and API integration.
+- [Contact Manager](https://github.com/sitizaharahedi/Contact-Manager-SE-Project): A simple Full-Stack Contact Manager demonstrating backend and frontend skills.
+- [Flask Notes App](https://github.com/sitizaharahedi/Flask-Notes-App-SE-Project): A simple Full-Stack Notes App demonstrating backend and frontend skills.
+- [Movie App](https://github.com/sitizaharahedi/Movie-App-SE-Project): A simple Frontend Movie App demonstrating React development and API integration.
 
 ### 🧠 Data Science & Analytics
 Machine learning and dashboard projects.
-- [Customer Churn Prediction](): Python / scikit-learn
-- [Sales Dashboard](): Power BI
+- [CRM Data Cleaning](https://github.com/sitizaharahedi/Python-Projects/blob/main/CRM_Data_Cleaning_FIXED.ipynb): Python / scikit-learn
+- [Sales Distribution Dashboard](https://github.com/sitizaharahedi/Sales-Distribution-Dashboard): Power BI
 
 ---
 
