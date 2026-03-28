@@ -12,9 +12,9 @@ Welcome to my portfolio, where I showcase [projects](https://github.com/sitizaha
 
 ### 💻 Software Engineering Projects
 Backend / full-stack Python apps demonstrating engineering skills.
-- [Project 1](): short description
-- [Project 2](): short description
-- [Project 3](): short description
+- [Contact Manager](): A simple Full-Stack Contact Manager demonstrating backend and frontend skills.
+- [Flask Notes App](): A simple Full-Stack Notes App demonstrating backend and frontend skills.
+- [Movie App](): A simple Frontend Movie App demonstrating React development and API integration.
 
 ### 🧠 Data Science & Analytics
 Machine learning and dashboard projects.
