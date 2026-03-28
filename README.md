@@ -18,7 +18,7 @@ Backend / full-stack Python apps demonstrating engineering skills.
 
 ### 🧠 Data Science & Analytics
 Machine learning and dashboard projects.
-- [CRM Data Cleaning](https://github.com/sitizaharahedi/Python-Projects/blob/main/CRM_Data_Cleaning_FIXED.ipynb): Python / scikit-learn
+- [All Data Science Projects](https://github.com/sitizaharahedi/Data-Science-Projects): Python / scikit-learn
 - [Sales Distribution Dashboard](https://github.com/sitizaharahedi/Sales-Distribution-Dashboard): Power BI
 
 ---
