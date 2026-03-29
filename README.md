@@ -25,9 +25,9 @@ Machine learning and dashboard projects.
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: Python
-- **Frameworks**: Flask, React
-- **Databases**: MySQL
+- **Languages**: Python, JavaScript
+- **Frameworks**: Flask, React, Bootstrap, Context API
+- **Databases**: SQLite, MySQL
 - **Visualization**: Power BI  
 - **Others**: Excel, Google Sheets, Git, GitHub
 
